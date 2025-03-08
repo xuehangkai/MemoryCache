@@ -194,7 +194,7 @@ ModelManifest.xml
 bin/*
 bintemp/*
 .vs/*
-*.sln
+
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
